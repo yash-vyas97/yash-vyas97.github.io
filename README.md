@@ -69,5 +69,16 @@ You will now be able to successfully view your website. Github makes this even e
 
 
 ##FAQ Section
+#### 1. Why is my static site not showing my theme?
+- You will need to make sure that your repository follows the naming convention as follows: username.github.io
+- Also ensure that your layout is set to _default_ instead of _home_ in your _index.html_ file.
+
+#### 2. I am a linux user. Will I still be able to follow this documentation guide?
+- If you are a linux user, you should use AsciiDoc as your plaintext markup language. 
+- As a Linux user, AsciiDoc will be more intuitive and straightforward.
+
+#### 3. Why should I use Distributed Version Control and why is it useful?
+- A distributed version control will serve as a better work flow and will also allow offline work.
+- Also, in the technical field Distributed Version Control is the most popular and preffered by developers.
 
 ...END...
