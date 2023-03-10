@@ -171,6 +171,7 @@ footer_show_references: true
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 sass:
   sass_dir: _sass
