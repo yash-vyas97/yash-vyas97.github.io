@@ -8,7 +8,9 @@ title: Yash Vyas Resume
 
 
 # <center>YASH VYAS</center>
-### <center>Email: [vyasy@myumanitoba.ca](mailto:vyasy@myumanitoba.ca) Github: [github.com/yash-vyas97](https://github.com/yash-vyas97)  LinkedIn: [linkedin.com/in/yash-vyas-8308a1205/](https://www.linkedin.com/in/yash-vyas-8308a1205/)</center> 
+### <center>Email: [vyasy@myumanitoba.ca](mailto:vyasy@myumanitoba.ca) 
+### <center>Github: [github.com/yash-vyas97](https://github.com/yash-vyas97)<center>  
+### <center>LinkedIn: [linkedin.com/in/yash-vyas-8308a1205/](https://www.linkedin.com/in/yash-vyas-8308a1205/)</center> 
 
 
 ### EDUCATION
