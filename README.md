@@ -50,6 +50,9 @@ You will now be able to successfully view your website. Github makes this even e
 - To navigate to the link, simply click on _settings_ (located under your repository name at the top), then go to _pages_ (found on the left) and finally Github Pages provides the link to you in the form _"https://username.github.io/".
 - With the built in features of Github and Github Pages, andy changes made to your _config.yml_ file will automatically sync with your website, always keeping it up to date.
 
+#### :smiley:Here is a visual gift since you made it this far!:smiley:
+![](Resume.gif)
+
 ## Additional resources.
 * A [Markdown tutorial](https://www.markdowntutorial.com/).
 * You can purchase _Modern_ _Technical_ _Writing_ by Andrew Etter's on Amazon [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
