@@ -14,12 +14,12 @@ This book goes in great detail and serves as a great source of knowledge for tec
 ## Requirements and necessities
 Below are the some of the things you would require before proceeding:
    1. A resume that is in Markdown format.
-   2. Jekyll alkready installed on your system.
+   2. Jekyll alkready installed on your system. Incase you have difficulty with this.
    3. A Github account.
 
 > In Modern Technical Writing, Etter emphasizes on using Markdown and AsciiDoc, which are Lightweight Markup Languages. This is because they are fairly easy to learn for beginners and are user friendly since they can be read in their raw format too. 
 
-I have included links that will guide you with learning Markdown, Github, and a Jekyll installation primer in the [Additional resources](#Additional-resources) section.
+Incase you have any difficulty in meeting the requirements, I have included links that will guide you with learning Markdown, Github, and a Jekyll installation primer in the [Additional resources](#Additional-resources) section.
 
 ## Instructions
 ### 1) Searching for (the static) theme of your website.  
@@ -57,6 +57,8 @@ You will now be able to successfully view your website. Github makes this even e
 * A [Markdown tutorial](https://www.markdowntutorial.com/).
 * You can purchase _Modern_ _Technical_ _Writing_ by Andrew Etter's on Amazon [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 * Guide to installing [Jekyll](https://jekyllrb.com/docs/).
+* A Github [primer](https://github.com/skills/introduction-to-github).
+* You can learn more about changing your theme and launching your website [here](https://pages.github.com/).
 * An excellent source for [website themes](https://jekyll-themes.com/).
 
 
@@ -68,7 +70,7 @@ You will now be able to successfully view your website. Github makes this even e
   3. Jiehao Lai
 
 
-##FAQ Section
+## FAQ Section
 #### 1. Why is my static site not showing my theme?
 - You will need to make sure that your repository follows the naming convention as follows: username.github.io
 - Also ensure that your layout is set to _default_ instead of _home_ in your _index.html_ file.
